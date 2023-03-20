@@ -3,14 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
-    flex-direction: row;
     height: 100vh;
 }
 
 main {
     display: flex;
     background: hsl(212, 45%, 89%);
-    height: 30em;
+    height: 35em;
     width:  70em;
     justify-content: center;
     align-items: center;
