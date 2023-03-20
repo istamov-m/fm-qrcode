@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    margin: 0;
     align-items: center;
     font-family: sans-serif;
     height: 100vh;
