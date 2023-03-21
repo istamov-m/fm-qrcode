@@ -1,5 +1,6 @@
 body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-family: 'Rowdies', cursive;
@@ -39,7 +40,11 @@ p {
     color: hsl(218, 44%, 22%);
 }
 
-footer {
+p:last-child {
     color: rgb(128, 128, 128);
     font-size: 13px;
+}
+
+footer {
+    margin-top: 50px;
 }
